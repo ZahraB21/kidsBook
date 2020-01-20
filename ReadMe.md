@@ -1,0 +1,3 @@
+This is a sample website designed for children and kids to read books. It encourages parents and adults to allow their children to join book clubs, provides a list of best picture books, fictional and non-fictional books to would help them in selecting the appropriate book for the child's age.
+
+The website is fully responsive. I have designed and developed the website using HTML5, CSS and Bootstrap framework.
